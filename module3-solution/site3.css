@@ -1,0 +1,43 @@
+.navbar-nav {
+    margin-left: auto;
+    font-size:1.22em;
+}
+body{
+    background-color: #187763;
+}
+.nav-link{
+    font-style: oblique;
+}
+.navbar{
+    background-color: #C4BDDB!important;
+}
+#food{
+    
+     font-size: 32px;
+      color: #7C2A78;
+     
+}
+h1{
+    margin-top: 30px;
+   font-family: 'Montserrat', sans-serif;
+   color:beige
+}
+h1,h2{
+    text-align: center;
+}
+h2{
+    font-weight: 900;
+}
+
+.row{
+    margin-top: 50px;
+}
+#chicken,#beef,#sushi{
+    background-color: #C4BDDB;
+}
+
+@media(min-width:987px){
+    .nav-link{
+        visibility:hidden;
+    }
+}
